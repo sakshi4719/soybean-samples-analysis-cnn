@@ -9,7 +9,7 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import ReduceLROnPlateau, EarlyStopping
 from tensorflow.keras.regularizers import l2
 
-data = pd.read_csv("corn_samples.csv")
+data = pd.read_csv("soybean_samples.csv")
 
 X = data.iloc[:, 3:]
 y = data['yield']
