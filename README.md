@@ -1,4 +1,4 @@
-# CNN Model for Soybean Yield Prediction - README
+# CNN Model for Soybean Yield Prediction 
 
 ### Overview
 This project uses a Convolutional Neural Network (CNN) to predict soybean yield based on soil data features. The goal is to predict the soybean yield using these features, providing valuable insights for agricultural decision-making.
